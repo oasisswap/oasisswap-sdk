@@ -1,4 +1,4 @@
-![OasisSwapSdk](https://github.com/OasisSwap/OasisSwap-Sdk/blob/master/OasisSwapSdk.jpg)
+![OasisSwapSdk](https://github.com/oasisswap/oasisswap-sdk/blob/main/OasisSwapSDK.jpg)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/oasisSwap/oasisswap-sdk/workflows/CI/badge.svg)](https://github.com/oasisSwap/oasisswap/sdk)
 [![npm version](https://img.shields.io/npm/v/@oasisswap/sdk/latest.svg)](https://www.npmjs.com/package/@oasisswap/sdk)
